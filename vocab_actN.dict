@@ -1,0 +1,3821 @@
+(dp0
+Vname eraina
+p1
+I6
+sVcanthelp food
+p2
+I673
+sVinform food french
+p3
+I989
+sVindian inform pricerange
+p4
+I7
+sVali
+p5
+I675
+sVoffer name chiquito
+p6
+I8
+sVaddr 152 -
+p7
+I676
+sVoffer name backstreet
+p8
+I805
+sVoffer name rajmahal
+p9
+I9
+sVhk fusion
+p10
+I23
+sVitalian inform
+p11
+I10
+sVmaharajah tandoori
+p12
+I1164
+sVname thanh binh
+p13
+I677
+sVasian
+p14
+I11
+sVinform addr 108
+p15
+I12
+sVmilton road
+p16
+I1072
+sVmill
+p17
+I337
+sVcambridge leisure park
+p18
+I13
+sVoffer name anatolia
+p19
+I678
+sVnewmarket road fen
+p20
+I991
+sVfrankie and bennys
+p21
+I14
+sV21 - 24
+p22
+I704
+sVname bloomsbury
+p23
+I707
+sVchinese
+p24
+I674
+sVname little seoul
+p25
+I994
+sVregent street
+p26
+I15
+sV01223 566388
+p27
+I1216
+sVdon pasquale pizzeria
+p28
+I338
+sVshanghai
+p29
+I996
+sVinform pricerange
+p30
+I16
+sVditton inform addr
+p31
+I832
+sVking street
+p32
+I339
+sVnorthampton road
+p33
+I1115
+sVsock inform food
+p34
+I790
+sVcity inform addr
+p35
+I70
+sVname pipasha
+p36
+I1065
+sVg4
+p37
+I997
+sValimentum inform addr
+p38
+I1156
+sVgarden
+p39
+I998
+sVfood spanish
+p40
+I679
+sVcheap
+p41
+I501
+sVcafe inform food
+p42
+I17
+sV35
+p43
+I1025
+sVphone 01223 351707
+p44
+I1090
+sVtandoori restaurant inform
+p45
+I18
+sVmichaelhouse
+p46
+I340
+sVname la raza
+p47
+I680
+sVindian
+p48
+I1014
+sVpizza kitchen and
+p49
+I19
+sVoffer name pizza
+p50
+I342
+sVtaj
+p51
+I1051
+sVchiquito restaurant
+p52
+I1000
+sVhotel restaurant inform
+p53
+I20
+sVmimosa inform
+p54
+I21
+sVname michaelhouse
+p55
+I484
+sVoffer name wagamama
+p56
+I22
+sV01223 362456
+p57
+I343
+sVname dojo
+p58
+I334
+sVbistro inform
+p59
+I1097
+sVexpl-conf area north
+p60
+I24
+sVaddr victoria
+p61
+I25
+sVnirala inform pricerange
+p62
+I105
+sVname backstreet
+p63
+I686
+sVoffer name michaelhouse
+p64
+I687
+sV17 magdalene street
+p65
+I1002
+sVname zizzi
+p66
+I26
+sVname da vinci
+p67
+I1003
+sVname the hotpot
+p68
+I688
+sVbackstreet bistro
+p69
+I27
+sVmeghna inform pricerange
+p70
+I28
+sVsteakhouse
+p71
+I689
+sVeuropean inform area
+p72
+I29
+sVoffer name gourmet
+p73
+I691
+sVfood polynesian
+p74
+I30
+sVyu garden
+p75
+I344
+sVoffer name bedouin
+p76
+I31
+sVname prezzo
+p77
+I1050
+sVmagdalene
+p78
+I693
+sVfen ditton
+p79
+I1005
+sVoffer name graffiti
+p80
+I126
+sVwelcomemsg
+p81
+I336
+sVaddr 17 magdalene
+p82
+I694
+sVsala thong
+p83
+I695
+sVfood afghan
+p84
+I346
+sVname cotto
+p85
+I1006
+sVspice inform phone
+p86
+I1007
+sVname meze bar
+p87
+I1008
+sVg4 cambridge leisure
+p88
+I697
+sVitalian inform pricerange
+p89
+I1032
+sVmoderate food
+p90
+I34
+sVjapanese
+p91
+I35
+sVburger
+p92
+I699
+sVstreet
+p93
+I36
+sVcrescent
+p94
+I348
+sVname gourmet burger
+p95
+I702
+sVcorner
+p96
+I893
+sVname grafton hotel
+p97
+I349
+sVyippee
+p98
+I350
+sVmodern european inform
+p99
+I1010
+sVinform food mediterranean
+p100
+I626
+sVphone 01223 727410
+p101
+I37
+sVreqmore
+p102
+I351
+sVaddr
+p103
+I352
+sVname maharajah tandoori
+p104
+I1026
+sVoffer name ali
+p105
+I736
+sVtrumpington street
+p106
+I167
+sVbedouin inform
+p107
+I1012
+sVpricerange expensive food
+p108
+I38
+sVcheap food
+p109
+I845
+sVbistro inform food
+p110
+I354
+sVcanthelp food english
+p111
+I347
+sVinform pricerange expensive
+p112
+I385
+sVmexican
+p113
+I757
+sVstandard inform food
+p114
+I1015
+sVoffer name galleria
+p115
+I1255
+sVinternational
+p116
+I355
+sVinform addr 7
+p117
+I837
+sV01223 323737
+p118
+I1016
+sVpark clifton
+p119
+I187
+sVand bistro inform
+p120
+I39
+sVslot
+p121
+I504
+sV2g cambridge
+p122
+I794
+sVname meghna
+p123
+I40
+sVfood takeaway inform
+p124
+I703
+sVinform addr g4
+p125
+I356
+sVchiquito
+p126
+I1019
+sVfrench
+p127
+I357
+sVbar inform food
+p128
+I1100
+sVbangkok
+p129
+I43
+sVfinders corner
+p130
+I387
+sVchop house
+p131
+I44
+sVshiraz
+p132
+I992
+sVname little
+p133
+I211
+sVandrews
+p134
+I33
+sVpostcode c.b 1
+p135
+I358
+sVpostcode c.b 2
+p136
+I359
+sV01733
+p137
+I45
+sVfinders
+p138
+I46
+sVpostcode c.b 5
+p139
+I888
+sV01223 360966
+p140
+I362
+sVfrench inform pricerange
+p141
+I47
+sVname taj
+p142
+I363
+sVefes restaurant
+p143
+I891
+sVnandos inform
+p144
+I364
+sVrajmahal
+p145
+I365
+sVdontcare select
+p146
+I895
+sVphone 01223 312598
+p147
+I1022
+sVchiquito restaurant bar
+p148
+I1101
+sVcanthelp
+p149
+I1083
+sVhouse inform phone
+p150
+I1023
+sVoffer name saigon
+p151
+I48
+sVselect area west
+p152
+I711
+sVname rice
+p153
+I231
+sVlucky star inform
+p154
+I366
+sVoffer name hk
+p155
+I233
+sVcocum inform
+p156
+I49
+sVfusion inform food
+p157
+I632
+sVcity inform phone
+p158
+I715
+sVfood vietnamese
+p159
+I1027
+sVselect pricerange
+p160
+I716
+sVraza
+p161
+I717
+sVvin and bistro
+p162
+I1028
+sVla margherita
+p163
+I50
+sVoffer name efes
+p164
+I900
+sVname j restaurant
+p165
+I369
+sVbinh inform pricerange
+p166
+I1233
+sVkitchen and
+p167
+I52
+sVgolden
+p168
+I53
+sVoffer name royal
+p169
+I1257
+sVfamily
+p170
+I719
+sVj restaurant
+p171
+I54
+sVstar inform pricerange
+p172
+I370
+sVname graffiti
+p173
+I1030
+sVname the cow
+p174
+I1185
+sV01223 312598
+p175
+I371
+sV205 victoria
+p176
+I372
+sVname curry prince
+p177
+I1031
+sVchesterton
+p178
+I908
+sVpalace inform
+p179
+I373
+sVbritish inform pricerange
+p180
+I55
+sVselect
+p181
+I722
+sVcanthelp food traditional
+p182
+I941
+sV521260
+p183
+I374
+sVfen
+p184
+I1034
+sVstar inform
+p185
+I119
+sVaddr 21
+p186
+I560
+sVtwo
+p187
+I724
+sV205 victoria road
+p188
+I57
+sVname golden wok
+p189
+I725
+sVsouth food
+p190
+I376
+sVcafe inform
+p191
+I58
+sVcentre
+p192
+I1136
+sV308681
+p193
+I1035
+sVcentre inform
+p194
+I59
+sVhinton
+p195
+I377
+sVname taj tandoori
+p196
+I378
+sVaddr 451
+p197
+I1098
+sVname sitar
+p198
+I1037
+sVselect food
+p199
+I727
+sVprezzo
+p200
+I968
+sVname ask
+p201
+I60
+sVphone 01223 354755
+p202
+I1191
+sVfood thai
+p203
+I1017
+sV351880
+p204
+I1230
+sVarea north pricerange
+p205
+I728
+sVand bar
+p206
+I61
+sVbar inform phone
+p207
+I729
+sVoffer name sitar
+p208
+I730
+sVname grafton
+p209
+I380
+sVphone
+p210
+I62
+sVhotel du
+p211
+I983
+sVhiston road
+p212
+I382
+sVvarsity
+p213
+I894
+sVexpl-conf area dontcare
+p214
+I731
+sVtasca inform
+p215
+I63
+sVindia house inform
+p216
+I1043
+sVmahal of
+p217
+I64
+sVcanthelp food german
+p218
+I733
+sVfood mediterranean
+p219
+I383
+sV315232
+p220
+I390
+sVbritish inform
+p221
+I1044
+sVhinton inform pricerange
+p222
+I341
+sVyippee noodle
+p223
+I705
+sVroad fen
+p224
+I1045
+sVtaj tandoori inform
+p225
+I735
+sVoffer name peking
+p226
+I65
+sVname bloomsbury restaurant
+p227
+I869
+sVinform food asian
+p228
+I444
+sVmidsummer
+p229
+I1046
+sVinform phone
+p230
+I67
+sValimentum inform
+p231
+I1047
+sVluck chinese
+p232
+I68
+sVoffer name meze
+p233
+I386
+sS'#food#'
+p234
+I3
+sVbrasserie inform
+p235
+I692
+sVstar
+p236
+I1261
+sVkorean inform
+p237
+I685
+sVtandoori restaurant
+p238
+I850
+sVname mahal
+p239
+I69
+sVpricerange moderate food
+p240
+I1106
+sVcanthelp.exception
+p241
+I388
+sVname thanh
+p242
+I738
+sVloch
+p243
+I1048
+sVindia
+p244
+I71
+sVfood dontcare
+p245
+I389
+sVsaint andrews
+p246
+I384
+sVroad cherry
+p247
+I739
+sVcantonese
+p248
+I72
+sVinform food international
+p249
+I740
+sVfood cuban
+p250
+I73
+sVphone 01223 362456
+p251
+I74
+sVthe oak bistro
+p252
+I75
+sVcambridge inform
+p253
+I742
+sVmaharajah tandoori restaurant
+p254
+I628
+sVpizza kitchen
+p255
+I1154
+sVhotel du vin
+p256
+I1107
+sVsala thong inform
+p257
+I1052
+sVcherry hinton inform
+p258
+I76
+sVoffer name shiraz
+p259
+I743
+sVexpl-conf
+p260
+I1053
+sVinform food thai
+p261
+I77
+sVhut cherry
+p262
+I1126
+sVname sala
+p263
+I1054
+sVroad cherry hinton
+p264
+I392
+sVsaint andrews street
+p265
+I744
+sVdon pasquale
+p266
+I709
+sV1
+p267
+I393
+sVcookhouse
+p268
+I745
+sV01799
+p269
+I1225
+sVtrumpington
+p270
+I394
+sVphone 01223 400170
+p271
+I905
+sVthanh binh inform
+p272
+I78
+sVexpl-conf pricerange cheap
+p273
+I79
+sVhut fen ditton
+p274
+I1056
+sVphone 01223 360966
+p275
+I1108
+sVname india house
+p276
+I1112
+sVname meghna inform
+p277
+I395
+sVpricerange expensive
+p278
+I1057
+sVfood european
+p279
+I80
+sVpizza
+p280
+I81
+sV309147
+p281
+I396
+sVbennys inform
+p282
+I1125
+sVname cocum inform
+p283
+I397
+sVseoul
+p284
+I748
+sVtakeaway inform pricerange
+p285
+I82
+sVfood moroccan
+p286
+I749
+sVtwo inform food
+p287
+I83
+sVhigh
+p288
+I1049
+sVchinese inform area
+p289
+I1250
+sVstar inform phone
+p290
+I1058
+sVpark cherry hinton
+p291
+I85
+sVfood greek
+p292
+I750
+sVpolynesian
+p293
+I751
+sVoak bistro inform
+p294
+I86
+sVphone 01223 350688
+p295
+I520
+sVlodge restaurant inform
+p296
+I1150
+sVbinh
+p297
+I1059
+sVrestaurant alimentum inform
+p298
+I752
+sVand bennys inform
+p299
+I87
+sVbritish inform area
+p300
+I635
+sVmeghna
+p301
+I399
+sVgreek
+p302
+I88
+sVname la mimosa
+p303
+I1178
+sVcote
+p304
+I1062
+sVroad
+p305
+I636
+sVgarden inform
+p306
+I754
+sVinform area south
+p307
+I755
+sVrajmahal inform
+p308
+I681
+sVname riverside
+p309
+I89
+sVnorthampton street
+p310
+I1237
+sVhinton road cherry
+p311
+I90
+sVcheap inform
+p312
+I91
+sVinform addr 21
+p313
+I402
+sVdojo
+p314
+I403
+sVoffer name la
+p315
+I1064
+sV01733 553355
+p316
+I404
+sVaddr 2g cambridge
+p317
+I804
+sVname the missing
+p318
+I1151
+sVnorthampton
+p319
+I405
+sVpricerange cheap food
+p320
+I1066
+sVnandos inform addr
+p321
+I92
+sVarea south
+p322
+I93
+sVfood mediterranean inform
+p323
+I1067
+sVvarsity restaurant inform
+p324
+I1068
+sVinform addr regent
+p325
+I406
+sVmargherita inform
+p326
+I747
+sVoffer name darrys
+p327
+I407
+sVcafe inform phone
+p328
+I760
+sVrestaurant bar inform
+p329
+I94
+sV327908
+p330
+I762
+sVfood asian
+p331
+I408
+sVgolden wok inform
+p332
+I911
+sV24
+p333
+I763
+sVsaigon
+p334
+I95
+sVfrench inform
+p335
+I96
+sVexpl-conf area centre
+p336
+I409
+sV20
+p337
+I764
+sV- 24
+p338
+I410
+sVthanh
+p339
+I411
+sVla
+p340
+I1073
+sVhouse inform food
+p341
+I1074
+sVbar inform
+p342
+I682
+sVbloomsbury
+p343
+I97
+sVmeze bar restaurant
+p344
+I1075
+sV20 milton
+p345
+I413
+sVcambridge retail park
+p346
+I1076
+sVname galleria
+p347
+I98
+sVsock inform phone
+p348
+I414
+sV451
+p349
+I1113
+sVali baba
+p350
+I100
+sVphone 01799
+p351
+I1078
+sVwine shop
+p352
+I415
+sVoffer name meghna
+p353
+I1207
+sVexpl-conf pricerange dontcare
+p354
+I416
+sVfood christmas
+p355
+I582
+sVcanthelp.exception name
+p356
+I684
+sVcote inform food
+p357
+I562
+sVgood
+p358
+I768
+sV10 homerton
+p359
+I417
+sVfood international
+p360
+I756
+sVfood
+p361
+I769
+sVoffer name restaurant
+p362
+I418
+sVmeze bar
+p363
+I1082
+sVgalleria
+p364
+I1055
+sVfood crossover
+p365
+I568
+sVfood french
+p366
+I419
+sVprezzo inform addr
+p367
+I101
+sVgalleria inform
+p368
+I1084
+sVthe hotpot inform
+p369
+I583
+sVexpensive inform
+p370
+I102
+sVinform addr 2g
+p371
+I421
+sVarea centre food
+p372
+I103
+sV24 northampton street
+p373
+I1085
+sVpeking restaurant inform
+p374
+I422
+sVpostcode c.b 3
+p375
+I887
+sVcambridge leisure
+p376
+I104
+sVkitchen inform phone
+p377
+I771
+sVoffer name dojo
+p378
+I1212
+sVname
+p379
+I423
+sVkitchen inform food
+p380
+I106
+sVaddr 191
+p381
+I1242
+sV01223 727410
+p382
+I107
+sVinform food turkish
+p383
+I813
+sVitalian inform area
+p384
+I774
+sVchop house inform
+p385
+I108
+sVfood turkish
+p386
+I775
+sVroyal standard
+p387
+I1201
+sVname rajmahal
+p388
+I424
+sVinform phone 01799
+p389
+I425
+sVloch fyne inform
+p390
+I426
+sVshanghai family
+p391
+I109
+sVretail park
+p392
+I1227
+sV244955
+p393
+I778
+sVluck
+p394
+I110
+sVoffer name cote
+p395
+I741
+sVoffer name little
+p396
+I1001
+sVpricerange moderate inform
+p397
+I779
+sVshanghai family restaurant
+p398
+I1021
+sVoffer name india
+p399
+I427
+sVrequest slot
+p400
+I111
+sVpizzeria inform addr
+p401
+I428
+sVmeghna inform food
+p402
+I429
+sVprezzo inform
+p403
+I112
+sVeuropean inform pricerange
+p404
+I781
+sVefes restaurant inform
+p405
+I113
+sVrestaurant bar
+p406
+I782
+sVcanthelp food polynesian
+p407
+I826
+sVphone 01223 413000
+p408
+I656
+sVpricerange expensive inform
+p409
+I928
+sVnandos city
+p410
+I1256
+sVname hotel
+p411
+I783
+sVvictoria road chesterton
+p412
+I784
+sVaddr 21 -
+p413
+I430
+sV- 154
+p414
+I1091
+sVexpl-conf area east
+p415
+I431
+sVphone 01223 812660
+p416
+I660
+sVaddr 290
+p417
+I1092
+sVname frankie and
+p418
+I737
+sVanatolia inform
+p419
+I786
+sVbelgian
+p420
+I1038
+sVoffer name rice
+p421
+I114
+sVhouse
+p422
+I780
+sV01223 354755
+p423
+I115
+sVwest food
+p424
+I788
+sV191
+p425
+I698
+sVname nandos city
+p426
+I643
+sVmeghna inform phone
+p427
+I398
+sVname hk fusion
+p428
+I433
+sVname nandos
+p429
+I789
+sVoriental
+p430
+I1095
+sVfood unusual
+p431
+I434
+sV7
+p432
+I791
+sVaddr 108
+p433
+I1096
+sVstandard inform
+p434
+I435
+sVpizzeria
+p435
+I436
+sVclifton way cherry
+p436
+I950
+sVgrafton
+p437
+I1195
+sVname darrys
+p438
+I690
+sVcambridge lodge
+p439
+I437
+sVbistro
+p440
+I696
+sVinform addr victoria
+p441
+I1196
+sVwok inform phone
+p442
+I438
+sV20 milton road
+p443
+I1099
+sVname peking restaurant
+p444
+I793
+sVthong
+p445
+I439
+sV24 northampton road
+p446
+I116
+sVbangkok city
+p447
+I41
+sVthe oak
+p448
+I42
+sVname ali baba
+p449
+I117
+sVstandard
+p450
+I118
+sVpipasha restaurant
+p451
+I440
+sVchinese inform pricerange
+p452
+I646
+sVwagamama
+p453
+I1102
+sVfood north american
+p454
+I1197
+sVthong inform
+p455
+I1004
+sVask
+p456
+I795
+sVrequest slot food
+p457
+I796
+sVthe cow pizza
+p458
+I797
+sVname peking
+p459
+I56
+sVname maharajah
+p460
+I441
+sV191 histon road
+p461
+I442
+sVriverside brasserie
+p462
+I120
+sVmagdalene street city
+p463
+I1104
+sV01223 323178
+p464
+I121
+sVfood swiss
+p465
+I518
+sVhinton road
+p466
+I122
+sVaddr 2g
+p467
+I571
+sVroad newnham
+p468
+I66
+sVfood german
+p469
+I123
+sVwok inform
+p470
+I1105
+sVarea
+p471
+I648
+sVseoul inform food
+p472
+I124
+sV21
+p473
+I765
+sVbritish
+p474
+I445
+sVpizzeria inform pricerange
+p475
+I799
+sVmaharajah
+p476
+I446
+sVgourmet
+p477
+I808
+sVamerican
+p478
+I800
+sVavenue
+p479
+I761
+sVbloomsbury restaurant inform
+p480
+I125
+sV290
+p481
+I1137
+sVexpl-conf area south
+p482
+I801
+sV323178
+p483
+I507
+sVaddr 7
+p484
+I802
+sVretail
+p485
+I1109
+sVinform postcode c.b
+p486
+I1110
+sVpizzeria inform
+p487
+I1118
+sVaddr 205
+p488
+I447
+sVburger kitchen inform
+p489
+I803
+sV323737
+p490
+I127
+sVfood modern
+p491
+I714
+sVname bedouin inform
+p492
+I128
+sVmissing sock
+p493
+I448
+sVclifton way
+p494
+I449
+sVoffer name golden
+p495
+I1218
+sVzizzi
+p496
+I99
+sVpark cherry
+p497
+I1114
+sVlodge restaurant
+p498
+I806
+sVname ali
+p499
+I885
+sVspanish
+p500
+I450
+sVcookhouse and wine
+p501
+I451
+sVname yu garden
+p502
+I1116
+sVcity inform
+p503
+I129
+sVnoodle bar
+p504
+I130
+sV108 regent street
+p505
+I807
+sVcity centre
+p506
+I959
+sVcity
+p507
+I452
+sVlittle
+p508
+I453
+sVafghan
+p509
+I1200
+sVselect pricerange cheap
+p510
+I1117
+sVname pizza hut
+p511
+I454
+sV553355
+p512
+I455
+sVname bedouin
+p513
+I456
+sVname curry garden
+p514
+I131
+sVinform area west
+p515
+I856
+sVinform addr 451
+p516
+I457
+sVname saigon
+p517
+I810
+sVindian inform area
+p518
+I458
+sV566388
+p519
+I811
+sV2
+p520
+I459
+sVsaint
+p521
+I812
+sVname cote
+p522
+I1199
+sVbloomsbury restaurant
+p523
+I138
+sVnandos inform pricerange
+p524
+I460
+sVcow pizza kitchen
+p525
+I133
+sVwest
+p526
+I633
+sValimentum inform food
+p527
+I134
+sVdanish
+p528
+I32
+sVname ask inform
+p529
+I815
+sVname golden
+p530
+I135
+sVmeghna inform addr
+p531
+I1119
+sVphone 01223 323737
+p532
+I574
+sVstar inform addr
+p533
+I136
+sVditton inform pricerange
+p534
+I137
+sVhotel
+p535
+I817
+sVpark
+p536
+I818
+sVoffer name j
+p537
+I819
+sVaddr cambridge leisure
+p538
+I1123
+sVtaj tandoori
+p539
+I523
+sVhut
+p540
+I462
+sVgarden inform pricerange
+p541
+I1241
+sVthe good luck
+p542
+I463
+sS'#turn#'
+p543
+I2
+sVoffer name maharajah
+p544
+I1013
+sVvictoria avenue chesterton
+p545
+I168
+sVname saint johns
+p546
+I464
+sVthai
+p547
+I172
+sVshiraz restaurant
+p548
+I821
+sVaddr 35
+p549
+I466
+sVthe lucky star
+p550
+I139
+sVmilton
+p551
+I468
+sV10
+p552
+I469
+sVname graffiti inform
+p553
+I470
+sV15
+p554
+I471
+sVturkish
+p555
+I995
+sV17
+p556
+I472
+sVcanthelp area north
+p557
+I473
+sVinform postcode
+p558
+I916
+sVrestaurant two
+p559
+I814
+sVfood italian inform
+p560
+I1060
+sV17 magdalene
+p561
+I823
+sV01223 351707
+p562
+I700
+sVcanthelp food barbeque
+p563
+I824
+sV351707
+p564
+I1061
+sVfood british inform
+p565
+I140
+sVla raza inform
+p566
+I141
+sVda vinci pizzeria
+p567
+I701
+sVdarrys cookhouse
+p568
+I391
+sVbridge
+p569
+I142
+sVname the nirala
+p570
+I143
+sVrestaurant two two
+p571
+I144
+sVpalace
+p572
+I145
+sVhouse inform addr
+p573
+I706
+sVoffer name cocum
+p574
+I828
+sVname la
+p575
+I475
+sVname rajmahal inform
+p576
+I147
+sVmodern
+p577
+I148
+sVhk fusion inform
+p578
+I222
+sVinform food italian
+p579
+I476
+sVaddr 152
+p580
+I335
+sVroad chesterton
+p581
+I1163
+sVphone 01223 309147
+p582
+I479
+sVnirala
+p583
+I480
+sVgraffiti
+p584
+I830
+sVexpl-conf area west
+p585
+I831
+sVaddr victoria avenue
+p586
+I1127
+sVraza inform food
+p587
+I1128
+sVtandoori
+p588
+I904
+sVfood jamaican
+p589
+I150
+sVcheap inform area
+p590
+I237
+sVoffer name cambridge
+p591
+I1120
+sVfood world
+p592
+I1264
+sVportuguese inform
+p593
+I481
+sVoffer name bloomsbury
+p594
+I1020
+sVmediterranean inform pricerange
+p595
+I1131
+sVinform
+p596
+I400
+sVfood chinese
+p597
+I1093
+sVway cherry
+p598
+I482
+sVoffer
+p599
+I483
+sV-
+p600
+I921
+sVname restaurant alimentum
+p601
+I250
+sValimentum inform pricerange
+p602
+I151
+sVditton
+p603
+I461
+sVaddr cambridge retail
+p604
+I866
+sVsaint johns chop
+p605
+I260
+sVconfirm-domain
+p606
+I153
+sVcanthelp food corsica
+p607
+I485
+sVkorean
+p608
+I1133
+sVinform food modern
+p609
+I833
+sVmeze
+p610
+I753
+sVoffer name da
+p611
+I486
+sV205
+p612
+I487
+sVfood creative
+p613
+I1135
+sV01223 244955
+p614
+I1011
+sV152 -
+p615
+I488
+sVname curry
+p616
+I1228
+sVnorth american
+p617
+I579
+sVvictoria
+p618
+I154
+sVmimosa
+p619
+I1138
+sVswiss
+p620
+I918
+sVoffer name frankie
+p621
+I835
+sVcanthelp food cantonese
+p622
+I1139
+sVname sitar tandoori
+p623
+I155
+sVroad city
+p624
+I156
+sVinform food mexican
+p625
+I580
+sVnandos city centre
+p626
+I158
+sVcanthelp pricerange
+p627
+I295
+sVinform area north
+p628
+I919
+sVslot area
+p629
+I159
+sVcuban
+p630
+I490
+sVfood cantonese
+p631
+I160
+sVcanthelp pricerange expensive
+p632
+I161
+sVcookhouse and
+p633
+I960
+sVsala
+p634
+I492
+sVseafood
+p635
+I493
+sVhotpot inform
+p636
+I162
+sVaddr 108 regent
+p637
+I820
+sVregent street city
+p638
+I838
+sVleisure park clifton
+p639
+I163
+sVname wagamama
+p640
+I840
+sV354755
+p641
+I494
+sVfood gastropub inform
+p642
+I1132
+sVc.b 4
+p643
+I164
+sVfood indian inform
+p644
+I165
+sVspice inform addr
+p645
+I1143
+sVinform addr 191
+p646
+I329
+sVmargherita inform food
+p647
+I166
+sVrestaurant inform pricerange
+p648
+I353
+sVphone 01733 553355
+p649
+I842
+sVshop
+p650
+I497
+sVinform addr 20
+p651
+I401
+sVasian oriental
+p652
+I1144
+sVname anatolia
+p653
+I843
+sVmeghna inform
+p654
+I1122
+sVindia house
+p655
+I1145
+sVgerman
+p656
+I498
+sVnandos inform phone
+p657
+I499
+sVname wagamama inform
+p658
+I500
+sVwok inform pricerange
+p659
+I1147
+sV01799 521260
+p660
+I169
+sVtandoori palace
+p661
+I502
+sVmoroccan
+p662
+I844
+sVname michaelhouse cafe
+p663
+I1130
+sVspice inform
+p664
+I170
+sVtwo two
+p665
+I1148
+sVpostcode
+p666
+I345
+sVphone 01223 351880
+p667
+I503
+sVda vinci
+p668
+I171
+sVexpl-conf pricerange moderate
+p669
+I465
+sVname eraina inform
+p670
+I173
+sVname the
+p671
+I1166
+sVinform food portuguese
+p672
+I906
+sVbinh inform phone
+p673
+I981
+sVoffer name bangkok
+p674
+I846
+sVoffer name cotto
+p675
+I174
+sVeraina inform food
+p676
+I505
+sV3
+p677
+I527
+sVoffer name curry
+p678
+I175
+sVgarden inform phone
+p679
+I467
+sVhills road
+p680
+I506
+sVexpensive
+p681
+I886
+sVcherry hinton road
+p682
+I848
+sVpizza hut fen
+p683
+I975
+sVarea south food
+p684
+I1153
+sVlodge
+p685
+I176
+sVeraina inform
+p686
+I495
+sVrice
+p687
+I177
+sVselect area
+p688
+I594
+sVphone 01733
+p689
+I508
+sVthai inform
+p690
+I509
+sVinform food british
+p691
+I851
+sVking
+p692
+I822
+sVoffer name zizzi
+p693
+I1232
+sVname restaurant
+p694
+I852
+sVthe missing
+p695
+I510
+sVvinci pizzeria inform
+p696
+I853
+sVrestaurant inform area
+p697
+I511
+sVleisure
+p698
+I178
+sVda
+p699
+I179
+sVoffer name eraina
+p700
+I847
+sVlucky star
+p701
+I180
+sVtwo inform
+p702
+I854
+sVoffer name yu
+p703
+I758
+sVeast pricerange
+p704
+I181
+sVmahal
+p705
+I855
+sVdu
+p706
+I1071
+sVmill road
+p707
+I412
+sV24 northampton
+p708
+I182
+sVbar
+p709
+I183
+sVgourmet burger
+p710
+I1159
+sV413000
+p711
+I184
+sVand wine shop
+p712
+I514
+sVmalaysian
+p713
+I515
+sVnewmarket road
+p714
+I777
+sVinform area
+p715
+I1161
+sVinform food gastropub
+p716
+I516
+sVcanthelp food world
+p717
+I1094
+sVinform addr
+p718
+I185
+sVditton inform
+p719
+I186
+sVinform area east
+p720
+I517
+sVphone 01223 566388
+p721
+I862
+sValimentum inform phone
+p722
+I443
+sVpizzeria inform food
+p723
+I519
+sVvin and
+p724
+I990
+sV154 hills
+p725
+I188
+sVmilton road chesterton
+p726
+I432
+sVsitar tandoori
+p727
+I521
+sVtasca inform food
+p728
+I1160
+sVphone 01223 353110
+p729
+I857
+sVeraina
+p730
+I189
+sV01223 353110
+p731
+I522
+sVinform food north
+p732
+I190
+sV01223 812660
+p733
+I191
+sVfood portuguese inform
+p734
+I1162
+sVhinton inform phone
+p735
+I759
+sVchinese food
+p736
+I524
+sVarea north
+p737
+I192
+sVphone 01223 315232
+p738
+I859
+sVbrasserie
+p739
+I193
+sVname frankie
+p740
+I194
+sVfood corsica
+p741
+I1165
+sVfood british
+p742
+I525
+sVname yu
+p743
+I195
+sVmagdalene street
+p744
+I1069
+sVrajmahal inform pricerange
+p745
+I962
+sVname cocum
+p746
+I196
+sVroad city centre
+p747
+I253
+sVdarrys cookhouse and
+p748
+I526
+sVand wine
+p749
+I1088
+sVbangkok city inform
+p750
+I1134
+sVprince
+p751
+I922
+sVsock inform addr
+p752
+I197
+sVla margherita inform
+p753
+I198
+sVname hotel du
+p754
+I860
+sVwok
+p755
+I861
+sVinform food indian
+p756
+I1208
+sV108 regent
+p757
+I528
+sVoffer name
+p758
+I199
+sVinform addr 35
+p759
+I512
+sVeast food
+p760
+I513
+sV01223 400170
+p761
+I590
+sVbarbeque
+p762
+I1167
+sVoak bistro
+p763
+I1168
+sVhotpot
+p764
+I923
+sVroad fen ditton
+p765
+I864
+sVrestaurant inform phone
+p766
+I785
+sVname riverside brasserie
+p767
+I964
+sVsaint johns
+p768
+I1169
+sVmissing
+p769
+I865
+sVask inform
+p770
+I816
+sVfyne
+p771
+I529
+sVname nandos inform
+p772
+I200
+sVarea west
+p773
+I530
+sVcurry prince
+p774
+I867
+sVdojo noodle bar
+p775
+I201
+sVcentre food
+p776
+I868
+sVstreet city
+p777
+I202
+sVoffer name prezzo
+p778
+I1193
+sVoffer name pipasha
+p779
+I952
+sVthong inform phone
+p780
+I531
+sVname la margherita
+p781
+I533
+sVkitchen
+p782
+I203
+sVphone 01223 323178
+p783
+I204
+sV451 newmarket
+p784
+I205
+sVhinton inform food
+p785
+I543
+sValimentum
+p786
+I825
+sV21 -
+p787
+I1042
+sVname royal spice
+p788
+I593
+sVhinton inform
+p789
+I206
+sVinform phone 01733
+p790
+I555
+sVinform food vietnamese
+p791
+I207
+sVoffer name mahal
+p792
+I875
+sVhinton inform addr
+p793
+I1086
+sV108
+p794
+I208
+sVphone 01223
+p795
+I876
+sVphone 01223 308681
+p796
+I209
+sVgastropub
+p797
+I1209
+sVcambridge lodge restaurant
+p798
+I877
+sVla mimosa
+p799
+I878
+sVrestaurant inform
+p800
+I732
+sVrose
+p801
+I879
+sVpizza hut cherry
+p802
+I210
+sVinform food korean
+p803
+I535
+sVthe missing sock
+p804
+I880
+sVcurry garden
+p805
+I881
+sVfood international inform
+p806
+I212
+sVhotel restaurant
+p807
+I213
+sVoffer name loch
+p808
+I584
+sVand
+p809
+I474
+sVenglish
+p810
+I1203
+sVsock inform
+p811
+I536
+sVthe gardenia
+p812
+I537
+sV01223 351880
+p813
+I214
+sVaddr 205 victoria
+p814
+I1070
+sVprince inform
+p815
+I215
+sV01223 413000
+p816
+I539
+sVprezzo inform pricerange
+p817
+I1177
+sVbedouin
+p818
+I540
+sVname sala thong
+p819
+I1103
+sVbasque
+p820
+I216
+sVcurry prince inform
+p821
+I541
+sVname cambridge
+p822
+I617
+sVhouse inform pricerange
+p823
+I884
+sVpostcode c.b
+p824
+I708
+sVname the lucky
+p825
+I217
+sVunusual
+p826
+I542
+sVseoul inform
+p827
+I360
+sVof cambridge
+p828
+I218
+sVmichaelhouse cafe inform
+p829
+I219
+sVpostcode c.b 4
+p830
+I361
+sVcanthelp pricerange cheap
+p831
+I827
+sVname shanghai family
+p832
+I545
+sVhomerton street
+p833
+I1179
+sVcanthelp food indonesian
+p834
+I546
+sVmediterranean
+p835
+I1009
+sVname india
+p836
+I956
+sV01223
+p837
+I1181
+sVanatolia inform food
+p838
+I946
+sVaddr regent street
+p839
+I829
+sVinform food european
+p840
+I547
+sVoffer name the
+p841
+I261
+sVinform food spanish
+p842
+I889
+sVsaigon city
+p843
+I548
+sVbridge street
+p844
+I221
+sV2g cambridge leisure
+p845
+I931
+sVname bangkok
+p846
+I549
+sVnewnham
+p847
+I870
+sVdu vin
+p848
+I477
+sVspice inform pricerange
+p849
+I223
+sVandrews street
+p850
+I1170
+sVname the good
+p851
+I871
+sVaddr finders
+p852
+I550
+sVpizzeria inform phone
+p853
+I1259
+sVcotto
+p854
+I1077
+sVpark newmarket road
+p855
+I600
+sV01223 350688
+p856
+I224
+sVphone 01223 244955
+p857
+I1024
+sVnorth pricerange
+p858
+I551
+sVcrossover
+p859
+I478
+sVand bistro
+p860
+I552
+sVname don
+p861
+I225
+sVcanthelp food moroccan
+p862
+I553
+sVretail park newmarket
+p863
+I226
+sVlebanese
+p864
+I1187
+sV01223 308681
+p865
+I1188
+sVpipasha restaurant inform
+p866
+I1189
+sVoriental inform
+p867
+I227
+sVcow
+p868
+I1190
+sV400170
+p869
+I228
+sVla tasca inform
+p870
+I554
+sVlittle seoul
+p871
+I897
+sVrestaurant
+p872
+I873
+sVinform addr finders
+p873
+I1029
+sVbaba inform
+p874
+I874
+sVarea dontcare
+p875
+I899
+sVarea west food
+p876
+I556
+sVdojo noodle
+p877
+I229
+sVburger kitchen
+p878
+I230
+sVgrafton hotel restaurant
+p879
+I637
+sVcity centre inform
+p880
+I51
+sVprezzo inform phone
+p881
+I557
+sVfood chinese inform
+p882
+I558
+sVaddr 20
+p883
+I559
+sS'#name#'
+p884
+I4
+sVali baba inform
+p885
+I901
+sVpizza hut
+p886
+I993
+sVhut cherry hinton
+p887
+I561
+sVrequest slot pricerange
+p888
+I1079
+sVpricerange moderate
+p889
+I563
+sVstar inform food
+p890
+I712
+sVphone 01223 244277
+p891
+I564
+sVdu vin and
+p892
+I232
+sVthe varsity restaurant
+p893
+I713
+sVname the gardenia
+p894
+I903
+sVrequest slot area
+p895
+I934
+sVfood korean
+p896
+I1121
+sVdarrys
+p897
+I1172
+sVsouth
+p898
+I1111
+sVfrankie and
+p899
+I1171
+sVname bangkok city
+p900
+I746
+sVname don pasquale
+p901
+I565
+sVoffer name ask
+p902
+I84
+sVrose crescent
+p903
+I258
+sVgolden wok
+p904
+I234
+sVmoderate inform
+p905
+I235
+sVaddr finders corner
+p906
+I367
+sVcherry hinton
+p907
+I1080
+sVmargherita inform pricerange
+p908
+I766
+sVthe varsity
+p909
+I236
+sVnewnham road newnham
+p910
+I935
+sVturkish inform
+p911
+I238
+sV01223 244277
+p912
+I566
+sVdontcare
+p913
+I907
+sVeuropean
+p914
+I239
+sVpasquale
+p915
+I909
+sVcanthelp food cuban
+p916
+I910
+sVcow pizza
+p917
+I1194
+sVoffer name tandoori
+p918
+I567
+sV01223 315232
+p919
+I569
+sVpricerange cheap
+p920
+I570
+sVbackstreet
+p921
+I912
+sVgraffiti inform
+p922
+I1183
+sV01223 309147
+p923
+I534
+sVjohns chop house
+p924
+I240
+sVarea centre
+p925
+I914
+sVexpensive inform area
+p926
+I1198
+sV812660
+p927
+I572
+sVyu garden inform
+p928
+I954
+sVcocum
+p929
+I573
+sVtandoori inform pricerange
+p930
+I929
+sVfood thai inform
+p931
+I132
+sS'<oov>'
+p932
+I0
+sVfamily restaurant inform
+p933
+I420
+sVvictoria road
+p934
+I575
+sVnoodle
+p935
+I915
+sVexpl-conf food
+p936
+I576
+sVname shanghai
+p937
+I1202
+sVname tandoori palace
+p938
+I241
+sVinform pricerange moderate
+p939
+I1175
+sVinform addr 290
+p940
+I577
+sVeuropean inform
+p941
+I798
+sVfood modern european
+p942
+I146
+sVway cherry hinton
+p943
+I242
+sVlucky
+p944
+I1157
+sVmediterranean inform
+p945
+I896
+sVgood luck chinese
+p946
+I1149
+sVthe lucky
+p947
+I1253
+sVstreet city centre
+p948
+I578
+sVhouse inform
+p949
+I243
+sVc.b 2
+p950
+I244
+sVc.b 3
+p951
+I245
+sVthe
+p952
+I246
+sVc.b 1
+p953
+I247
+sVname yippee
+p954
+I1204
+sVfood seafood
+p955
+I581
+sVname royal
+p956
+I248
+sVc.b 5
+p957
+I249
+sVfood danish
+p958
+I718
+sVexpl-conf food dontcare
+p959
+I920
+sVfrankie
+p960
+I585
+sVmichaelhouse cafe
+p961
+I1205
+sV451 newmarket road
+p962
+I1206
+sVcote inform
+p963
+I586
+sVtakeaway
+p964
+I1063
+sVlittle seoul inform
+p965
+I251
+sVtakeaway inform
+p966
+I587
+sVnoodle bar inform
+p967
+I882
+sVinform food
+p968
+I588
+sVarea east food
+p969
+I252
+sVoffer name hotel
+p970
+I858
+sVcanthelp area
+p971
+I589
+sS'</s>'
+p972
+I1
+sVthanh binh
+p973
+I254
+sVluck chinese food
+p974
+I591
+sVcorner newmarket road
+p975
+I863
+sVfood mexican
+p976
+I1213
+sVfyne inform
+p977
+I592
+sVhills
+p978
+I255
+sVavenue chesterton
+p979
+I256
+sV290 mill road
+p980
+I924
+sVcherry
+p981
+I257
+sVhigh street
+p982
+I596
+sVregent
+p983
+I597
+sVroyal
+p984
+I259
+sVyu
+p985
+I770
+sVfood basque
+p986
+I598
+sVsock inform pricerange
+p987
+I925
+sVexpensive food
+p988
+I152
+sVoffer name yippee
+p989
+I220
+sV4
+p990
+I599
+sVriverside
+p991
+I1210
+sVeast
+p992
+I262
+sVgastropub inform pricerange
+p993
+I1211
+sVindonesian
+p994
+I927
+sVthe cow
+p995
+I538
+sVthe nirala inform
+p996
+I976
+sVslot food
+p997
+I999
+sVcanthelp area east
+p998
+I601
+sVvin
+p999
+I721
+sVgastropub inform
+p1000
+I872
+sVinform addr cambridge
+p1001
+I663
+sVcity inform food
+p1002
+I603
+sVfood kosher
+p1003
+I1040
+sVrestaurant inform postcode
+p1004
+I604
+sVoffer name taj
+p1005
+I930
+sVbar inform pricerange
+p1006
+I605
+sVfusion
+p1007
+I263
+sVgardenia inform
+p1008
+I890
+sV312598
+p1009
+I264
+sVexpl-conf area
+p1010
+I265
+sVworld
+p1011
+I606
+sVmargherita
+p1012
+I266
+sVcambridge retail
+p1013
+I883
+sVbinh inform addr
+p1014
+I1214
+sVbinh inform
+p1015
+I607
+sVbridge street city
+p1016
+I720
+sVname da
+p1017
+I1215
+sVspice inform food
+p1018
+I933
+sVturkish inform pricerange
+p1019
+I772
+sVchinese food takeaway
+p1020
+I267
+sVla mimosa inform
+p1021
+I609
+sVaddr g4 cambridge
+p1022
+I1217
+sVoffer name sala
+p1023
+I1124
+sVname saigon city
+p1024
+I809
+sVasian oriental inform
+p1025
+I610
+sVkitchen inform
+p1026
+I611
+sVcanthelp area west
+p1027
+I268
+sVzizzi cambridge
+p1028
+I773
+sVloch fyne
+p1029
+I269
+sVpark newmarket
+p1030
+I613
+sVitalian
+p1031
+I1219
+sVfood italian
+p1032
+I614
+sVname pizza
+p1033
+I270
+sVoffer name riverside
+p1034
+I767
+sVcanthelp area south
+p1035
+I615
+sVcanthelp area centre
+p1036
+I1220
+sVname yippee noodle
+p1037
+I683
+sVbar restaurant
+p1038
+I1221
+sVoffer name grafton
+p1039
+I306
+sVoffer name shanghai
+p1040
+I271
+sVfood asian oriental
+p1041
+I938
+sVsaigon city inform
+p1042
+I616
+sVname la tasca
+p1043
+I939
+sVtandoori inform phone
+p1044
+I272
+sVand bennys
+p1045
+I834
+sVhomerton
+p1046
+I273
+sVtandoori inform food
+p1047
+I1036
+sVanatolia
+p1048
+I274
+sVarea east
+p1049
+I1033
+sVslot pricerange
+p1050
+I619
+sVname chiquito
+p1051
+I1222
+sVnirala inform phone
+p1052
+I275
+sS'#slot#'
+p1053
+I5
+sVname efes
+p1054
+I926
+sVname the oak
+p1055
+I988
+sV350688
+p1056
+I620
+sVname anatolia inform
+p1057
+I276
+sVcanthelp food creative
+p1058
+I621
+sVcreative
+p1059
+I277
+sVnewnham road
+p1060
+I1224
+sVphone 01223 327908
+p1061
+I942
+sVrestaurant inform food
+p1062
+I940
+sV2g
+p1063
+I776
+sVname cambridge lodge
+p1064
+I622
+sVphone 01799 521260
+p1065
+I278
+sVgardenia
+p1066
+I978
+sVname tandoori
+p1067
+I1226
+sVinform phone 01223
+p1068
+I623
+sV362456
+p1069
+I624
+sVmoderate
+p1070
+I625
+sVchristmas
+p1071
+I279
+sVfood european inform
+p1072
+I943
+sVname gourmet
+p1073
+I1152
+sVname shiraz restaurant
+p1074
+I726
+sVjohns
+p1075
+I947
+sVoffer name nandos
+p1076
+I944
+sVfood belgian
+p1077
+I280
+sVcanthelp pricerange moderate
+p1078
+I627
+sVgourmet burger kitchen
+p1079
+I1018
+sVefes
+p1080
+I281
+sVrajmahal inform phone
+p1081
+I945
+sVseoul inform phone
+p1082
+I668
+sVinform addr 205
+p1083
+I1192
+sVnewmarket
+p1084
+I368
+sVinform addr 152
+p1085
+I282
+sVaddr 17
+p1086
+I283
+sVaddr cambridge
+p1087
+I1229
+sVaddr 15
+p1088
+I284
+sVfood north
+p1089
+I489
+sVdon
+p1090
+I958
+sVpricerange cheap inform
+p1091
+I1158
+sVaddr 10
+p1092
+I285
+sVfinders corner newmarket
+p1093
+I286
+sVoriental inform pricerange
+p1094
+I629
+sVyippee noodle bar
+p1095
+I608
+sVroyal spice inform
+p1096
+I287
+sVof
+p1097
+I630
+sVcafe
+p1098
+I971
+sVindian inform
+p1099
+I288
+sVchop
+p1100
+I631
+sVseoul inform addr
+p1101
+I892
+sVtwo inform phone
+p1102
+I544
+sVinform pricerange cheap
+p1103
+I634
+sVcurry
+p1104
+I289
+sVname zizzi cambridge
+p1105
+I792
+sVname mahal of
+p1106
+I290
+sV244277
+p1107
+I291
+sVpeking restaurant
+p1108
+I1089
+sVcambridge
+p1109
+I638
+sVwagamama inform
+p1110
+I639
+sVname dojo noodle
+p1111
+I640
+sVportuguese
+p1112
+I292
+sVname loch
+p1113
+I293
+sVsock
+p1114
+I953
+sVfood malaysian
+p1115
+I836
+sVclifton
+p1116
+I1081
+sVkosher
+p1117
+I1173
+sVname restaurant two
+p1118
+I948
+sVmargherita inform phone
+p1119
+I1266
+sVname darrys cookhouse
+p1120
+I1234
+sVleisure park
+p1121
+I532
+sVgood luck
+p1122
+I949
+sVbar inform addr
+p1123
+I1235
+sVthe nirala
+p1124
+I595
+sVfamily restaurant
+p1125
+I642
+sVname loch fyne
+p1126
+I294
+sVcorsica
+p1127
+I644
+sVraza inform
+p1128
+I951
+sVj restaurant inform
+p1129
+I645
+sVfusion inform
+p1130
+I1174
+sVtandoori palace inform
+p1131
+I618
+sV360966
+p1132
+I647
+sVfood takeaway
+p1133
+I1236
+sVmoderate inform area
+p1134
+I375
+sVaddr 20 milton
+p1135
+I1238
+sVaddr regent
+p1136
+I1239
+sVcanthelp food danish
+p1137
+I296
+sV353110
+p1138
+I913
+sV727410
+p1139
+I1240
+sVcotto inform
+p1140
+I157
+sVway
+p1141
+I297
+sVfen ditton inform
+p1142
+I298
+sVname pipasha restaurant
+p1143
+I1176
+sVrestaurant alimentum
+p1144
+I1155
+sVtandoori inform
+p1145
+I936
+sVand bar inform
+p1146
+I299
+sVfood indonesian
+p1147
+I649
+sVnorth
+p1148
+I1243
+sVpeking
+p1149
+I1087
+sVhiston road chesterton
+p1150
+I1244
+sV01223 327908
+p1151
+I300
+sVroyal spice
+p1152
+I955
+sVname shiraz
+p1153
+I650
+sVname galleria inform
+p1154
+I651
+sVnirala inform
+p1155
+I301
+sVroyal standard inform
+p1156
+I957
+sVhut fen
+p1157
+I1245
+sVhk
+p1158
+I1246
+sVgrafton hotel
+p1159
+I302
+sVmodern european
+p1160
+I303
+sVnorth food
+p1161
+I304
+sVname prezzo inform
+p1162
+I1247
+sV290 mill
+p1163
+I1182
+sVname saint
+p1164
+I1248
+sVvietnamese
+p1165
+I710
+sVname hk
+p1166
+I652
+sVoffer name saint
+p1167
+I917
+sVfood barbeque
+p1168
+I305
+sVpipasha
+p1169
+I491
+sVfood english
+p1170
+I937
+sVaddr 451 newmarket
+p1171
+I654
+sV154 hills road
+p1172
+I1140
+sVaddr 10 homerton
+p1173
+I787
+sVj
+p1174
+I1249
+sVjohns chop
+p1175
+I655
+sVname efes restaurant
+p1176
+I657
+sVwine shop inform
+p1177
+I307
+sVhiston
+p1178
+I898
+sVfood fusion
+p1179
+I963
+sVjamaican
+p1180
+I658
+sVaddr 191 histon
+p1181
+I308
+sVtasca
+p1182
+I1141
+sVexpl-conf pricerange
+p1183
+I309
+sVprince inform addr
+p1184
+I965
+sVname chiquito restaurant
+p1185
+I310
+sVkitchen and bar
+p1186
+I311
+sVfood japanese
+p1187
+I1251
+sVinform area centre
+p1188
+I312
+sVhomerton street city
+p1189
+I966
+sVprince inform pricerange
+p1190
+I967
+sVbaba
+p1191
+I1039
+sVirish
+p1192
+I1252
+sV152
+p1193
+I313
+sVoffer name thanh
+p1194
+I969
+sV154
+p1195
+I314
+sVfood lebanese
+p1196
+I1180
+sVnandos
+p1197
+I315
+sV- 154 hills
+p1198
+I1186
+sVcanthelp food greek
+p1199
+I379
+sVname meze
+p1200
+I1254
+sVsitar
+p1201
+I902
+sVpricerange
+p1202
+I970
+sV- 24 northampton
+p1203
+I316
+sVrequest
+p1204
+I1142
+sVsitar tandoori inform
+p1205
+I317
+sVaddr 290 mill
+p1206
+I318
+sVgarden inform food
+p1207
+I972
+sVtraditional
+p1208
+I839
+sVspice
+p1209
+I653
+sVthe hotpot
+p1210
+I659
+sVvinci
+p1211
+I1184
+sVoffer name don
+p1212
+I973
+sVvarsity restaurant
+p1213
+I1231
+sVthe gardenia inform
+p1214
+I1129
+sVthong inform food
+p1215
+I1146
+sVmill road city
+p1216
+I932
+sVoak
+p1217
+I723
+sVpasquale pizzeria
+p1218
+I319
+sVname royal standard
+p1219
+I661
+sVvinci pizzeria
+p1220
+I320
+sVfood gastropub
+p1221
+I974
+sV5
+p1222
+I662
+sVarea north food
+p1223
+I1258
+sV152 - 154
+p1224
+I321
+sVking street city
+p1225
+I602
+sVnandos inform food
+p1226
+I322
+sVaddr g4
+p1227
+I1260
+sVfood indian
+p1228
+I323
+sVpricerange dontcare
+p1229
+I664
+sVarea east pricerange
+p1230
+I665
+sVtwo two inform
+p1231
+I666
+sVfood traditional
+p1232
+I1265
+sVprince inform phone
+p1233
+I841
+sVinform addr 15
+p1234
+I324
+sVinform addr 17
+p1235
+I325
+sVname backstreet bistro
+p1236
+I977
+sVinform addr 10
+p1237
+I326
+sVinternational inform
+p1238
+I1223
+sV10 homerton street
+p1239
+I1262
+sVleisure park cherry
+p1240
+I667
+sVla raza
+p1241
+I1263
+sVbennys
+p1242
+I327
+sVrestaurant inform addr
+p1243
+I328
+sV191 histon
+p1244
+I1271
+sVbar restaurant inform
+p1245
+I849
+sVfood turkish inform
+p1246
+I979
+sVcurry garden inform
+p1247
+I330
+sVname cote inform
+p1248
+I641
+sVfood portuguese
+p1249
+I669
+sVcentre inform food
+p1250
+I980
+sVinform food chinese
+p1251
+I1267
+sVmahal of cambridge
+p1252
+I1268
+sVname the varsity
+p1253
+I1272
+sVshop inform
+p1254
+I1269
+sVla tasca
+p1255
+I1270
+sVriverside brasserie inform
+p1256
+I961
+sVlane
+p1257
+I982
+sVg4 cambridge
+p1258
+I612
+sVthe good
+p1259
+I331
+sVcorner newmarket
+p1260
+I381
+sVmissing sock inform
+p1261
+I987
+sVname cotto inform
+p1262
+I332
+sVfood french inform
+p1263
+I671
+sVname j
+p1264
+I734
+sVc.b
+p1265
+I984
+sVpark clifton way
+p1266
+I672
+sVwine
+p1267
+I496
+sVbinh inform food
+p1268
+I333
+sVfood irish
+p1269
+I985
+sVchinese inform
+p1270
+I986
+sVfood korean inform
+p1271
+I149
+sVvictoria avenue
+p1272
+I670
+sVshiraz restaurant inform
+p1273
+I1041
+s.
